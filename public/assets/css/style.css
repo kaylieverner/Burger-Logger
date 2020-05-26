@@ -1,7 +1,13 @@
-.header{
-    color: red
-}; 
 
 body {
     vertical-align: middle;
+};
+
+.mainTitle{
+    font-family: 'Bangers', cursive;
+    color: rgb(158, 55, 55)
+};
+
+.listTitle{
+    font-family: 'Patrick Hand', cursive;
 };
